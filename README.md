@@ -50,6 +50,11 @@ jupyter notebook
 📸 Sample Output
 
 (Add screenshots of graphs or dashboards here)
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/2671666d-fed1-4651-9862-ee43f2f94c9d" />
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ab8636f2-8d8b-4964-ab0c-49ed5494d41a" />
+
+
+
 
 🎯 Future Improvements
 Add machine learning for sales prediction

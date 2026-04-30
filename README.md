@@ -20,7 +20,7 @@ NumPy
 Matplotlib / Seaborn
 Jupyter Notebook
 
-(Agar tu Excel / Power BI use kiya hai to wo bhi add kar dena)
+
 
 📊 Features
 Data Cleaning & Preprocessing
@@ -40,11 +40,9 @@ Observed monthly/seasonal sales trends
 Found high revenue generating regions
 Highlighted low-performing areas
 
-(Yaha apne real insights likh dena — ye bahut important hai 🔥)
+
 
 🖥️ How to Run the Project
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
 Install dependencies
 pip install pandas numpy matplotlib seaborn
 Run the Jupyter Notebook
